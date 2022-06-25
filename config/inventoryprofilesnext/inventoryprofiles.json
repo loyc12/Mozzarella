@@ -4,7 +4,16 @@
         "highlight_foused_items_foreground": false,
         "first_run": false
     },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "continuous_crafting_saved_value": false
+    },
     "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": "COMMA"
+            }
+        },
         "sort_inventory": {
             "main": {
                 "keys": "BUTTON_3"

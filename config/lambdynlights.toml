@@ -1,0 +1,264 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				llama = true
+				bat = true
+				hoglin = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				llama_spit = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				ravager = true
+				trader_llama = true
+				donkey = true
+				chest_minecart = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				zombified_piglin = true
+				area_effect_cloud = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				eye_of_ender = true
+				wolf = true
+				villager = true
+				skeleton_horse = true
+				fishing_bobber = true
+				tnt_minecart = true
+				elder_guardian = true
+				small_fireball = true
+				boat = true
+				strider = true
+				hopper_minecart = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.betteranimalsplus]
+				deer = true
+				feralwolf = true
+				reindeer = true
+				jellyfish = true
+				octopus = true
+				goose = true
+				songbird = true
+				badgerdirt = true
+				eel_freshwater = true
+				boar = true
+				whale = true
+				lamprey = true
+				butterfly = true
+				pheasant = true
+				blackbear = true
+				shark = true
+				flying_fish = true
+				piranha = true
+				bobbit_worm = true
+				barracuda = true
+				nautilus = true
+				tarantula = true
+				badger = true
+				eel_saltwater = true
+				squirrel = true
+				brownbear = true
+				walrus = true
+				horseshoecrab = true
+				turkey = true
+				coyote = true
+				lammergeier = true
+				crab = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.biomemakeover]
+				rootling = true
+				scuttler = true
+				moth = true
+				owl = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				desert_creeper = true
+				dripstone_creeper = true
+				jungle_creeper = true
+				cave_creeper = true
+				beach_creeper = true
+				hills_creeper = true
+
+			[light_sources.settings.entities.hookshot]
+				hookshot = true
+
+			[light_sources.settings.entities.megaparrot]
+				megaparrot = true
+
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				spore_ball = true
+				petal_blade = true
+				void_blossom = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				wraith = true
+				corrupted_vindicator = true
+				skeleton_creeper = true
+				corrupted_pillager = true
+				ghoul = true
+				reaper = true
+				nightmare = true
+
+			[light_sources.settings.entities.probablychests]
+				stone_chest_mimic = true
+				gold_chest_mimic = true
+				lush_chest_mimic = true
+				lush_chest_mimic_pet = true
+				normal_chest_mimic = true
+				rocky_chest_mimic = true
+
+			[light_sources.settings.entities.mythicmounts]
+				courierbird = true
+				dragon = true
+				griffon = true
+				geckotoalizard = true
+				acencia = true
+
+			[light_sources.settings.entities.capybara]
+				capybara = true
+
+			[light_sources.settings.entities.promenade]
+				sunken_skeleton = true
+				duck = true
+				lush_creeper = true
+
+			[light_sources.settings.entities.charm]
+				moobloom = true
+				chair = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+				jungle_skeleton = true
+				naga = true
+
+			[light_sources.settings.entities.the_aether]
+				aerbunny = true
+				aechor_plant = true
+				moa = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				orc = true
+				iguana = true
+				amethyst_golem = true
+				blaze_guardian = true
+				ender_whale = true
+				summoner = true
+				blaze_guardian_shield = true
+				brown_fungus = true
+
+			[light_sources.settings.entities.whisperwoods]
+				hidebehind = true
+				moth = true
+				zotzpyre = true
+				wisp = true
+
+			[light_sources.settings.entities.arcanus]
+				arcane_barrier = true
+				magic_missile = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				camel = true
+				penguin = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.magehand]
+				hostile = true
+				amethyst = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_wither_skeleton = true
+				baby_skeleton = true
+

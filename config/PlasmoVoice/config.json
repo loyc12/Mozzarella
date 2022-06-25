@@ -1,12 +1,17 @@
 {
   "servers": {
     "78.108.218.23": {
-      "distance": 24,
+      "distance": 256,
       "priorityDistance": 512
+    },
+    "127.0.0.1": {
+      "distance": 16,
+      "priorityDistance": 48
     }
   },
   "playerVolumes": {
-    "109ccfa0-26d8-4132-b750-41fe8cd3a69b": 2.0
+    "109ccfa0-26d8-4132-b750-41fe8cd3a69b": 1.75,
+    "04d4782f-8561-49b5-bf90-e2ff1fff9eef": 1.4
   },
   "whitelist": false,
   "voiceVolume": 2.0,
