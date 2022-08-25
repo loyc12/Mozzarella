@@ -127,8 +127,11 @@ https://www.curseforge.com/minecraft/mc-mods/bettersleeping-revived
 Better Villages - Fabric
 https://www.curseforge.com/minecraft/mc-mods/better-village-fabric
 
-Biome Makeover										Issue?
+Biome Makeover
 https://www.curseforge.com/minecraft/mc-mods/biome-makeover
+
++ Boat Container
+https://www.curseforge.com/minecraft/mc-mods/boat-container
 
 Bosses of Mass Destruction
 https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction
@@ -209,7 +212,75 @@ https://www.curseforge.com/minecraft/mc-mods/croptopia
 	Croptopia's Chocolaterie [Fabric]
 	https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric
 
-D
+Dark Paintings
+https://www.curseforge.com/minecraft/mc-mods/dark-paintings
+
+Death Knell
+https://www.curseforge.com/minecraft/mc-mods/death-knell
+
+Decorative Blocks
+https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
+
+Despawning Eggs Hatch (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch-fabric
+
+Disenchanter
+https://www.curseforge.com/minecraft/mc-mods/disenchanter
+
+Savage Ender Dragon[Forge/Fabric]
+https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon
+
+DragonLoot
+https://www.curseforge.com/minecraft/mc-mods/dragonloot
+
+Easy Magic
+https://www.curseforge.com/minecraft/mc-mods/easy-magic
+
+Ecologics
+https://www.curseforge.com/minecraft/mc-mods/ecologics
+
+Elytra Slot (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric
+
+Enchanting Infuser
+https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge
+
+End Goblin Traders (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/end-goblin-traders-fabric
+
+Enhanced Celestials(Fabric) - Blood Moons & Harvest Moons
+https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric
+
+EnhancedVisuals
+https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+
+Enriched
+https://www.curseforge.com/minecraft/mc-mods/enriched
+
+Fabric API
+https://www.curseforge.com/minecraft/mc-mods/fabric-api
+
+FallingTree (Forge&Fabric)
+https://www.curseforge.com/minecraft/mc-mods/falling-trees
+
+Feature NBT Deadlock Be Gone
+https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone
+
+FerriteCore (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+
+Forge Config API Port
+https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
+
+{Shadew's} Foxes
+https://www.curseforge.com/minecraft/mc-mods/shadews-foxes
+
++ FoxGlow
+https://www.curseforge.com/minecraft/mc-mods/foxglow
+
+G
+
+
 
 
 Libraries & APIs :
@@ -243,6 +314,19 @@ https://www.curseforge.com/minecraft/mc-mods/collective-fabric
 
 CreativeCore
 https://www.curseforge.com/minecraft/mc-mods/creativecore
+
+Dawn API
+https://www.curseforge.com/minecraft/mc-mods/dawn
+
+Ellemes' Container Library
+https://www.curseforge.com/minecraft/mc-mods/ellemes-container-library
+
+Fabric Language Kotlin
+https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+
+
+
+
 
 
 
