@@ -1,8 +1,8 @@
 {
 	"lichConfig": {
 		"eternalNighttime": true,
-		"experienceDrop": 1500,
-		"idleHealingPerTick": 0.20000000298023224,
+		"experienceDrop": 2000,
+		"idleHealingPerTick": 0.2,
 		"health": 300.0,
 		"missile": {
 			"statusEffectId": "minecraft:slowness",
@@ -32,7 +32,7 @@
 				"minecraft:zombie_villager",
 				"minecraft:zombified_piglin"
 			],
-			"numEntitiesKilledToDropSoulStar": 50
+			"numEntitiesKilledToDropSoulStar": 65
 		},
 		"towerGeneration": {
 			"generateLichTower": true,
