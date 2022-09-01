@@ -188,9 +188,6 @@ https://www.curseforge.com/minecraft/mc-mods/crafttweaker
 +	CreateTweaker
 	https://www.curseforge.com/minecraft/mc-mods/createtweaker
 
-	JEITweaker
-	https://www.curseforge.com/minecraft/mc-mods/jeitweaker
-
 Crawl (Fabric)
 https://www.curseforge.com/minecraft/mc-mods/crawl
 
@@ -274,9 +271,6 @@ https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
 
 {Shadew's} Foxes
 https://www.curseforge.com/minecraft/mc-mods/shadews-foxes
-
-+ FoxGlow
-https://www.curseforge.com/minecraft/mc-mods/foxglow
 
 G
 
