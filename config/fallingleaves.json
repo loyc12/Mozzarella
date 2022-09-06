@@ -620,6 +620,10 @@
     "the_aether:crystal_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "charm:ebony_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

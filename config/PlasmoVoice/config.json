@@ -11,16 +11,17 @@
   },
   "playerVolumes": {
     "109ccfa0-26d8-4132-b750-41fe8cd3a69b": 1.75,
-    "04d4782f-8561-49b5-bf90-e2ff1fff9eef": 1.4
+    "04d4782f-8561-49b5-bf90-e2ff1fff9eef": 1.4,
+    "fd5ee279-1092-4168-b403-c6666d5c716d": 1.2
   },
   "whitelist": false,
-  "voiceVolume": 2.0,
+  "voiceVolume": 0.0,
   "priorityVolume": 2.0,
   "occlusion": false,
   "speakerMuted": false,
   "showIcons": 0,
   "micIconPosition": "BOTTOM_CENTER",
-  "voiceActivation": true,
+  "voiceActivation": false,
   "voiceActivationThreshold": -50.0,
   "microphoneAmplification": 2.0,
   "rnNoise": false,
