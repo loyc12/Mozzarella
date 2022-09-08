@@ -39,6 +39,34 @@ Pregenerating chunks with Chunky is highly recommended, especially for multiplay
 
 	Modlist (Clientside Only) :
 
+Skin Layers 3D (Fabric/Forge)
+https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
+
+Advancement Plaques [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric
+
+AmbientSounds 5
+https://www.curseforge.com/minecraft/mc-mods/ambientsounds
+
+? Better Advancements
+https://www.curseforge.com/minecraft/mc-mods/better-advancements
+
+Better Biome Blend
+https://www.curseforge.com/minecraft/mc-mods/better-biome-blend
+
+BetterF3
+https://www.curseforge.com/minecraft/mc-mods/betterf3
+
+Better Fps - Render Distance[Fabric]
+https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric
+
+Better Ping Display [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
+
+Better Third Person
+https://www.curseforge.com/minecraft/mc-mods/better-third-person
+
+C
 
 
 	Modlist (Serverside & Clientside) :
