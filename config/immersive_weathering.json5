@@ -7,7 +7,7 @@
 	},
 	"leavesConfig": {
 		"fallingLeafParticles": true,
-		"leafDecayPiles": true,
+		"leafDecayPiles": false,
 		"leafDecayParticles": true,
 		"leafDecaySound": true,
 		"leafPilesForm": true,

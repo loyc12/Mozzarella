@@ -1,15 +1,16 @@
 # Mozzarella
 
-Mozzarella modpack for Minecraft 1.18.2 (Fabric 0.14.8)
+Mozzarella modpack for Minecraft 1.18.2 (Fabric 0.14.9)
 
 PS : (It is recommended you have at least 12G of ram on your PC to run this modpack)
 
-How to install this modpack :
+
+	How to install this modpack :
 
 - Have minecraft JAVA EDITION installed on your PC
 - Download the Mozzarella folder (extract from the zip file if needed)
 - Run the fabric installer (.exe file)
-- Install the MC version 1.18.2 with the loader version 0.14.8 (create profile option turned on)
+- Install the MC version 1.18.2 with the loader version 0.14.9 (create profile option turned on)
 - Open the minecraft launcher and go to the Installations tab (2nd one)
 - Click on the newly created installation of fabric 1.18.2
 - (Optional) change the name of the installation to Mozzarella
@@ -26,7 +27,8 @@ How to install this modpack :
 - Close the file explorer and launch the Mozarella Installation again
 - If everything has been done correctly, the bottom left corner of the minecraft title screen should say "Minecraft 1.18.2/Fabric (354 Mods)"
 
-Additional information :
+
+	Additional information :
 
 This modpack is in its beta phase, and while it is currently mostly stable, bugs and issues are still to be expected. If you find any, please communicate with the us so we can try to resolve them.
 
@@ -35,7 +37,11 @@ We are currently testing this modpack on a server (adress given to select partic
 Pregenerating chunks with Chunky is highly recommended, especially for multiplayer.
 
 
-Modlist :
+	Modlist (Clientside Only) :
+
+
+
+	Modlist (Serverside & Clientside) :
 
 Additional Additions | Fabric
 https://www.curseforge.com/minecraft/mc-mods/additional-additions
@@ -242,9 +248,6 @@ https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric
 Enchanting Infuser
 https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge
 
-End Goblin Traders (Fabric)
-https://www.curseforge.com/minecraft/mc-mods/end-goblin-traders-fabric
-
 Enhanced Celestials(Fabric) - Blood Moons & Harvest Moons
 https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-fabric
 
@@ -272,17 +275,66 @@ https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
 {Shadew's} Foxes
 https://www.curseforge.com/minecraft/mc-mods/shadews-foxes
 
-G
++ Friendly Fire
+https://www.curseforge.com/minecraft/mc-mods/friendly-fire
+
+Gobber [FABRIC]
+https://www.curseforge.com/minecraft/mc-mods/gobber-fabric
+
+Goblin Traders (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric
+
+	End Goblin Traders (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/end-goblin-traders-fabric
+
+* Guard Villagers (Fabric/Quilt)
+https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric
+
+Hearty Trinkets
+https://www.curseforge.com/minecraft/mc-mods/hearty-trinkets
+
+Hookshot
+https://www.curseforge.com/minecraft/mc-mods/hookshot
+
+Immersive Weathering [FABRIC]
+https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric
+
+Incantationem
+https://www.curseforge.com/minecraft/mc-mods/incantationem
+
+JourneyMap
+https://www.curseforge.com/minecraft/mc-mods/journeymap
+
+	* JourneyMap Integration
+	https://www.curseforge.com/minecraft/mc-mods/journeymap-integration
+
+KleeSlabs (Fabric Edition)
+https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric
+
+Lithium (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/lithium
+
+* Llama Steeds // FABRIC
+https://www.curseforge.com/minecraft/mc-mods/llama-steeds
+
+Login Protection[Forge/Fabric]
+https://www.curseforge.com/minecraft/mc-mods/login-protection
+
+Loot Integrations[Forge/Fabric]
+https://www.curseforge.com/minecraft/mc-mods/loot-integrations
+
+M
 
 
 
 
-Libraries & APIs :
+
+	Modlist (Libraries & APIs) :
 
 Architectury API (Fabric/Forge)
 https://www.curseforge.com/minecraft/mc-mods/architectury-api
 
-bad packets
+Bad Packets
 https://www.curseforge.com/minecraft/mc-mods/badpackets
 
 Balm (Fabric Edition)
@@ -318,3 +370,17 @@ https://www.curseforge.com/minecraft/mc-mods/ellemes-container-library
 Fabric Language Kotlin
 https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
 
+GeckoLib
+https://www.curseforge.com/minecraft/mc-mods/geckolib
+
+Iceberg [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric
+
+Ingredient Extension API
+https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api
+
+Kiwi 🥝 (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/kiwi-fabric
+
+Library Ferret - Fabric
+https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric

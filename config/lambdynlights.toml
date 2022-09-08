@@ -128,6 +128,9 @@ mode = "fancy"
 				glowfish = true
 				mushroom_trader = true
 
+			[light_sources.settings.entities.additionaladditions]
+				glow_stick = true
+
 			[light_sources.settings.entities.mca]
 				male_zombie_villager = true
 				female_zombie_villager = true

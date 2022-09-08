@@ -5,8 +5,8 @@
       "priorityDistance": 512
     },
     "127.0.0.1": {
-      "distance": 16,
-      "priorityDistance": 48
+      "distance": 128,
+      "priorityDistance": 512
     }
   },
   "playerVolumes": {
