@@ -9,6 +9,7 @@
 			"{data:{Count:1b,id:\"mythicmounts:summoning_staff\",tag:{Id:[I;1626479486,380191206,-1783118673,716753582],display:{Name:'{\"translate\":\"entity.mythicmounts.dragon\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		"hiddenFavorites": [],
+		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": "WHEN_CREATIVE",
 		"favoritesEnabled": true,
@@ -157,6 +158,7 @@
 		"isFocusModeZoomed": false
 	},
 	"functionality": {
+		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.

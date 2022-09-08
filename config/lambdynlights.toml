@@ -23,6 +23,7 @@ mode = "fancy"
 				panda = true
 				bee = true
 				axolotl = true
+				egg = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -30,6 +31,7 @@ mode = "fancy"
 				skeleton = true
 				llama = true
 				bat = true
+				husk = true
 				hoglin = true
 				experience_bottle = true
 				rabbit = true
@@ -45,6 +47,7 @@ mode = "fancy"
 				salmon = true
 				wandering_trader = true
 				wither_skeleton = true
+				vex = true
 				piglin_brute = true
 				goat = true
 				ocelot = true
@@ -52,6 +55,7 @@ mode = "fancy"
 				horse = true
 				vindicator = true
 				phantom = true
+				minecart = true
 				ender_dragon = true
 				leash_knot = true
 				evoker = true
@@ -79,8 +83,10 @@ mode = "fancy"
 				area_effect_cloud = true
 				piglin = true
 				blaze = true
+				endermite = true
 				cat = true
 				zombie = true
+				ender_pearl = true
 				guardian = true
 				ghast = true
 				sheep = true
@@ -95,6 +101,7 @@ mode = "fancy"
 				skeleton_horse = true
 				fishing_bobber = true
 				tnt_minecart = true
+				zombie_villager = true
 				elder_guardian = true
 				small_fireball = true
 				boat = true
@@ -105,6 +112,91 @@ mode = "fancy"
 				witch = true
 				cod = true
 				spider = true
+
+			[light_sources.settings.entities.endgoblintraders]
+				end_goblin_trader = true
+
+			[light_sources.settings.entities.xtraarrows]
+				diamond_arrow = true
+
+			[light_sources.settings.entities.biomemakeover]
+				rootling = true
+				blightbat = true
+				scuttler = true
+				moth = true
+				owl = true
+				glowfish = true
+				mushroom_trader = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.hookshot]
+				hookshot = true
+
+			[light_sources.settings.entities.megaparrot]
+				megaparrot = true
+
+			[light_sources.settings.entities.ae2]
+				charged_quartz = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				wraith = true
+				corrupted_vindicator = true
+				skeleton_creeper = true
+				corrupted_pillager = true
+				ghoul = true
+				reaper = true
+				nightmare = true
+
+			[light_sources.settings.entities.capybara]
+				capybara = true
+
+			[light_sources.settings.entities.betternether]
+				naga_projectile = true
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+				jungle_skeleton = true
+				naga = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				skeleton_vanguard = true
+				orc = true
+				necromancer = true
+				blaze_guardian = true
+				ender_whale = true
+				piglin_beast = true
+				blaze_guardian_shield = true
+				brown_fungus = true
+				iguana = true
+				amethyst_golem = true
+				enderwarthog = true
+				summoner = true
+				void_bullet = true
+
+			[light_sources.settings.entities.whisperwoods]
+				hidebehind = true
+				moth = true
+				zotzpyre = true
+				wisp = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				camel = true
+				penguin = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
@@ -140,50 +232,27 @@ mode = "fancy"
 				lammergeier = true
 				crab = true
 
+			[light_sources.settings.entities.enriched]
+				honey_slime = true
+
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
-
-			[light_sources.settings.entities.biomemakeover]
-				rootling = true
-				scuttler = true
-				moth = true
-				owl = true
-
-			[light_sources.settings.entities.mca]
-				male_zombie_villager = true
-				female_zombie_villager = true
-				female_villager = true
-				male_villager = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				bamboo_creeper = true
 				desert_creeper = true
+				dark_oak_creeper = true
 				dripstone_creeper = true
 				jungle_creeper = true
 				cave_creeper = true
 				beach_creeper = true
+				savannah_creeper = true
 				hills_creeper = true
-
-			[light_sources.settings.entities.hookshot]
-				hookshot = true
-
-			[light_sources.settings.entities.megaparrot]
-				megaparrot = true
 
 			[light_sources.settings.entities.bosses_of_mass_destruction]
 				spore_ball = true
 				petal_blade = true
 				void_blossom = true
-
-			[light_sources.settings.entities.graveyard]
-				revenant = true
-				wraith = true
-				corrupted_vindicator = true
-				skeleton_creeper = true
-				corrupted_pillager = true
-				ghoul = true
-				reaper = true
-				nightmare = true
 
 			[light_sources.settings.entities.probablychests]
 				stone_chest_mimic = true
@@ -194,14 +263,14 @@ mode = "fancy"
 				rocky_chest_mimic = true
 
 			[light_sources.settings.entities.mythicmounts]
+				netherbat = true
 				courierbird = true
+				moth = true
+				direwolf = true
 				dragon = true
 				griffon = true
 				geckotoalizard = true
 				acencia = true
-
-			[light_sources.settings.entities.capybara]
-				capybara = true
 
 			[light_sources.settings.entities.promenade]
 				sunken_skeleton = true
@@ -212,51 +281,21 @@ mode = "fancy"
 				moobloom = true
 				chair = true
 
-			[light_sources.settings.entities.betternether]
-				firefly = true
-				hydrogen_jellyfish = true
-				skull = true
-				jungle_skeleton = true
-				naga = true
-
 			[light_sources.settings.entities.the_aether]
 				aerbunny = true
 				aechor_plant = true
 				moa = true
 
-			[light_sources.settings.entities.adventurez]
-				deer = true
-				orc = true
-				iguana = true
-				amethyst_golem = true
-				blaze_guardian = true
-				ender_whale = true
-				summoner = true
-				blaze_guardian_shield = true
-				brown_fungus = true
-
-			[light_sources.settings.entities.whisperwoods]
-				hidebehind = true
-				moth = true
-				zotzpyre = true
-				wisp = true
-
 			[light_sources.settings.entities.arcanus]
 				arcane_barrier = true
 				magic_missile = true
 
-			[light_sources.settings.entities.ecologics]
-				squirrel = true
-				camel = true
-				penguin = true
-				coconut_crab = true
+			[light_sources.settings.entities.betterend]
+				shadow_walker = true
 
 			[light_sources.settings.entities.magehand]
 				hostile = true
 				amethyst = true
-
-			[light_sources.settings.entities.artifacts]
-				mimic = true
 
 			[light_sources.settings.entities.tinyskeletons]
 				baby_wither_skeleton = true

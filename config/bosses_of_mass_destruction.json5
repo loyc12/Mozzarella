@@ -2,7 +2,7 @@
 	"lichConfig": {
 		"eternalNighttime": true,
 		"experienceDrop": 2000,
-		"idleHealingPerTick": 0.2,
+		"idleHealingPerTick": 0.20000000298023224,
 		"health": 300.0,
 		"missile": {
 			"statusEffectId": "minecraft:slowness",
