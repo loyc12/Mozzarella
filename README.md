@@ -78,7 +78,87 @@ https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric
 Continuity
 https://www.curseforge.com/minecraft/mc-mods/continuity
 
-E
+Eating Animation [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric
+
+Effective 💦
+https://www.curseforge.com/minecraft/mc-mods/effective
+
+Enchantment Descriptions
+https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions
+
+Enhanced Attack Indicator
+https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator
+
+Entity Culling Fabric/Forge
+https://www.curseforge.com/minecraft/mc-mods/entityculling
+
+Equipment Compare [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric
+
+* Falling Leaves (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
+
+Illuminations 🔥
+https://www.curseforge.com/minecraft/mc-mods/illuminations
+
+Indium
+https://www.curseforge.com/minecraft/mc-mods/indium
+
+Inventory Profiles Next
+https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+
+Iris Shaders
+https://www.curseforge.com/minecraft/mc-mods/irisshaders
+
+Just Enough Keys [JEK] [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/just-enough-keys-fabric
+
+LambdaBetterGrass
+https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass
+
+LambDynamicLights
+https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
+
+Light Overlay (Rift/Forge/Fabric)
+https://www.curseforge.com/minecraft/mc-mods/light-overlay
+
+Mod Menu
+https://www.curseforge.com/minecraft/mc-mods/modmenu
+
+Mouse Tweaks
+https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+
+Music Duration Reducer
+https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer
+
+Not Enough Animations
+https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+
+Presence Footsteps [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/presence-footsteps
+
+Sodium
+https://www.curseforge.com/minecraft/mc-mods/sodium/files
+
+Sound Physics Remastered
+https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered
+
+Tool Stats
+https://www.curseforge.com/minecraft/mc-mods/tool-stats
+
+ToolTipFix
+https://www.curseforge.com/minecraft/mc-mods/tooltipfix
+
+Traveler's Titles (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric
+
+Visuality
+https://www.curseforge.com/minecraft/mc-mods/visuality
+
+Zoomify
+https://www.curseforge.com/minecraft/mc-mods/zoomify
+
 
 
 
@@ -365,7 +445,61 @@ https://www.curseforge.com/minecraft/mc-mods/login-protection
 Loot Integrations[Forge/Fabric]
 https://www.curseforge.com/minecraft/mc-mods/loot-integrations
 
-M
+Macaw's Mods (There's alot...)
+
+	Macaw's Bridges - Oh The Biomes You'll Go
+	https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go
+
+	Macaw's Roofs - Oh The Biomes You'll Go
+	https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-oh-the-biomes-youll-go
+
+	TBC				!!!=======================================!!!
+
+* Mage Hand
+https://www.curseforge.com/minecraft/mc-mods/mage-hand
+
+Max Health Fix
+https://www.curseforge.com/minecraft/mc-mods/max-health-fix
+
+MC Dungeons Artifacts
+https://www.curseforge.com/minecraft/mc-mods/mcdar
+
+MC Dungeons Weapons
+https://www.curseforge.com/minecraft/mc-mods/mcdw
+
+MegaParrot
+https://www.curseforge.com/minecraft/mc-mods/megaparrot
+
+MCA Reborn [Fabric/Forge]
+https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn
+
+Mining Dimensions [FABRIC]
+https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric
+
+MO + macaw ^^^
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ShulkerBoxTooltip [Fabric/Forge]
+https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
+
+WTHIT
+https://www.curseforge.com/minecraft/mc-mods/wthit
+
+	megane
+	https://www.curseforge.com/minecraft/mc-mods/megane
 
 
 
