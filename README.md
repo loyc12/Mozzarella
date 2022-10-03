@@ -66,7 +66,21 @@ https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric
 Better Third Person
 https://www.curseforge.com/minecraft/mc-mods/better-third-person
 
-C
+Chat Heads
+https://www.curseforge.com/minecraft/mc-mods/chat-heads
+
+CleanCut
+https://www.curseforge.com/minecraft/mc-mods/cleancut
+
+Client Tweaks (Fabric Edition)
+https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric
+
+Continuity
+https://www.curseforge.com/minecraft/mc-mods/continuity
+
+E
+
+
 
 
 	Modlist (Serverside & Clientside) :
