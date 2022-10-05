@@ -501,6 +501,32 @@ https://www.curseforge.com/minecraft/mc-mods/wthit
 	megane
 	https://www.curseforge.com/minecraft/mc-mods/megane
 
+* XP Obelisk
+https://www.curseforge.com/minecraft/mc-mods/xp-obelisk
+
+Xtra Arrows
+https://www.curseforge.com/minecraft/mc-mods/xtra-arrows
+
+You're in Grave Danger
+https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger
+
+YUNG's Mods (There's also alot...)
+
+	YUNG's Better Dungeons (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+
+	YUNG's Better Mineshafts (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+
+	YUNG's Better Strongholds (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
+
+	YUNG's Bridges (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric
+
+	YUNG's Extras (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
+
 
 
 
@@ -555,6 +581,9 @@ https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric
 Ingredient Extension API
 https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api
 
+JamLib
+https://www.curseforge.com/minecraft/mc-mods/jamlib
+
 Kiwi 🥝 (Fabric)
 https://www.curseforge.com/minecraft/mc-mods/kiwi-fabric
 
@@ -563,3 +592,11 @@ https://www.curseforge.com/minecraft/mc-mods/libipn
 
 Library Ferret - Fabric
 https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric
+
+
+
+
+
+
+YUNG's API (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
