@@ -1,0 +1,38 @@
++ https://www.curseforge.com/minecraft/mc-mods/galosphere
++ https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner				(or similar)
++ https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected
++ https://www.curseforge.com/minecraft/mc-mods/naturalist
++ https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures
++ https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric
++ https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric
++ https://www.curseforge.com/minecraft/mc-mods/byg-plus
++ https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
+
+https://www.curseforge.com/minecraft/mc-mods/simple-cobblestone-generator
+https://www.curseforge.com/minecraft/mc-mods/no-tree-punching
+https://www.curseforge.com/minecraft/mc-mods/onastick
+https://www.curseforge.com/minecraft/mc-mods/piercing-paxels
+https://www.curseforge.com/minecraft/mc-mods/aquatic-torches
+https://www.curseforge.com/minecraft/mc-mods/rare-ice
+https://www.curseforge.com/minecraft/mc-mods/castle-dungeons
+https://www.curseforge.com/minecraft/mc-mods/global-datapacks
+https://www.curseforge.com/minecraft/mc-mods/motschens-puddles
+https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge
+https://www.curseforge.com/minecraft/mc-mods/overweight-farming
+https://www.curseforge.com/minecraft/mc-mods/healing-campfire-fabric
+
+? https://www.curseforge.com/minecraft/mc-mods/simple-copper-pipes
+? https://www.curseforge.com/minecraft/mc-mods/improved-stations
+? https://www.curseforge.com/minecraft/mc-mods/furnace-mk2
+? https://www.curseforge.com/minecraft/mc-mods/overlord
+? https://www.curseforge.com/minecraft/mc-mods/universal-ores-fabric
+? https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village
+? https://www.curseforge.com/minecraft/mc-mods/the-wild-backport
+? https://www.curseforge.com/minecraft/mc-mods/wilder-world
+? https://www.curseforge.com/minecraft/mc-mods/fastload
+? https://www.curseforge.com/minecraft/mc-mods/missing-wilds
+? https://www.curseforge.com/minecraft/mc-mods/soaring-structures-2
+? https://www.curseforge.com/minecraft/mc-mods/tipthescales
+? https://www.curseforge.com/minecraft/mc-mods/almost-unified
+
+?? https://www.curseforge.com/minecraft/mc-mods/cave-enhancements

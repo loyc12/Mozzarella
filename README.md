@@ -558,5 +558,8 @@ https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api
 Kiwi 🥝 (Fabric)
 https://www.curseforge.com/minecraft/mc-mods/kiwi-fabric
 
+libIPN
+https://www.curseforge.com/minecraft/mc-mods/libipn
+
 Library Ferret - Fabric
 https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric
