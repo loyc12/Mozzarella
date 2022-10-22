@@ -16,7 +16,9 @@ PS : (It is recommended you have at least 12G of ram on your PC to run this modp
 - (Optional) change the name of the installation to Mozzarella
 - Create a subdirectory on your .minecraft called Mozzarella
 - click on more options and paste the JVM arguments bellow;
-	-Xmx7G -Xms1G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=6 -XX:G1ReservePercent=6 -XX:MaxGCPauseMillis=10 -XX:G1HeapRegionSize=32M -XX:ParallelGCThreads=12 -XX:SoftRefLRUPolicyMSPerMB=10000 -Dsun.rmi.dgc.server.gcInterval=2147483648
+
+	-Xmx8G -Xms1G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=6 -XX:G1ReservePercent=6 -XX:MaxGCPauseMillis=10 -XX:G1HeapRegionSize=32M -XX:ParallelGCThreads=12 -XX:SoftRefLRUPolicyMSPerMB=10000 -Dsun.rmi.dgc.server.gcInterval=2147483648
+
 - (Optional) You can change the 7 in "-Xmx7G" to any number between 5 and 10 to give minecraft more or less allowed ram usage
 - Save and launch the installation
 - Once at the title screen, close the game
@@ -35,6 +37,9 @@ This modpack is in its beta phase, and while it is currently mostly stable, bugs
 We are currently testing this modpack on a server (adress given to select participants), so you're welcom to come join us, assuming you,ve been given the IP and can act like decent people online.
 
 Pregenerating chunks with Chunky is highly recommended, especially for multiplayer.
+
+
+
 
 
 	Modlist (Clientside Only) :
@@ -163,6 +168,8 @@ https://www.curseforge.com/minecraft/mc-mods/zoomify
 
 
 
+
+
 	Modlist (Serverside & Clientside) :
 
 Additional Additions | Fabric
@@ -185,6 +192,12 @@ https://www.curseforge.com/minecraft/mc-mods/adventurez
 
 	VoidZ
 	https://www.curseforge.com/minecraft/mc-mods/voidz
+
+Alloy Forgery
+https://www.curseforge.com/minecraft/mc-mods/alloy-forgery
+
++ Alloygery
+https://www.curseforge.com/minecraft/mc-mods/alloygery
 
 + Amecs (Fabric)									Client?
 https://www.curseforge.com/minecraft/mc-mods/amecs
@@ -243,6 +256,9 @@ https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus
 + Better Combat [Fabric/Forge] by Daedelus
 https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus
 
++ Better Dropped Items
+https://www.curseforge.com/minecraft/mc-mods/better-dropped-items
+
 BetterEnd
 https://www.curseforge.com/minecraft/mc-mods/betterend
 
@@ -276,6 +292,9 @@ https://www.curseforge.com/minecraft/mc-mods/capybara-fabric
 Carrier
 https://www.curseforge.com/minecraft/mc-mods/carrier/files
 
++ Castle Dungeons [Forge & Fabric]
+https://www.curseforge.com/minecraft/mc-mods/castle-dungeons
+
 Chalk (Fabric)
 https://www.curseforge.com/minecraft/mc-mods/chalk-fabric
 
@@ -284,6 +303,9 @@ https://www.curseforge.com/minecraft/mc-mods/charm
 
 Chimes
 https://www.curseforge.com/minecraft/mc-mods/chimes
+
++ ChoiceTheorem's Overhauled Village
+https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village
 
 Chunky (Fabric)
 https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator
@@ -312,6 +334,9 @@ https://www.curseforge.com/minecraft/mc-mods/couplings
 CraftTweaker
 https://www.curseforge.com/minecraft/mc-mods/crafttweaker
 	Doc : https://docs.blamejared.com/1.18/en/index
+
++	ContentTweaker
+	https://www.curseforge.com/minecraft/mc-mods/contenttweaker
 
 +	CreateTweaker
 	https://www.curseforge.com/minecraft/mc-mods/createtweaker
@@ -352,8 +377,8 @@ https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch-fabric
 Disenchanter
 https://www.curseforge.com/minecraft/mc-mods/disenchanter
 
-Savage Ender Dragon[Forge/Fabric]
-https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon
++ Doodads [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/doodads-fabric
 
 DragonLoot
 https://www.curseforge.com/minecraft/mc-mods/dragonloot
@@ -378,6 +403,9 @@ https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
 
 Enriched
 https://www.curseforge.com/minecraft/mc-mods/enriched
+
+Explorer's Compass
+https://www.curseforge.com/minecraft/mc-mods/explorers-compass
 
 Fabric API
 https://www.curseforge.com/minecraft/mc-mods/fabric-api
@@ -412,11 +440,17 @@ https://www.curseforge.com/minecraft/mc-mods/goblin-traders-fabric
 * Guard Villagers (Fabric/Quilt)
 https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric
 
+Harvest Scythes
+https://www.curseforge.com/minecraft/mc-mods/harvest-scythes
+
 Hearty Trinkets
 https://www.curseforge.com/minecraft/mc-mods/hearty-trinkets
 
 Hookshot
 https://www.curseforge.com/minecraft/mc-mods/hookshot
+
++ Hover Pets
+https://www.curseforge.com/minecraft/mc-mods/hover-pets
 
 Immersive Weathering [FABRIC]
 https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric
@@ -427,7 +461,7 @@ https://www.curseforge.com/minecraft/mc-mods/incantationem
 JourneyMap
 https://www.curseforge.com/minecraft/mc-mods/journeymap
 
-	* JourneyMap Integration
+*	JourneyMap Integration
 	https://www.curseforge.com/minecraft/mc-mods/journeymap-integration
 
 KleeSlabs (Fabric Edition)
@@ -447,13 +481,38 @@ https://www.curseforge.com/minecraft/mc-mods/loot-integrations
 
 Macaw's Mods (There's alot...)
 
+	Macaw's Bridges
+	https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
+
 	Macaw's Bridges - Oh The Biomes You'll Go
 	https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go
+
+	Macaw's Doors
+	https://www.curseforge.com/minecraft/mc-mods/macaws-doors
+
+	Macaw's Fences and Walls
+	https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
+
+	Macaw's Lights and Lamps
+	https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps
+
+	Macaw's Paintings
+	https://www.curseforge.com/minecraft/mc-mods/macaws-paintings
+
+	Macaw's Paths and Pavings
+	https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings
+
+	Macaw's Roofs
+	https://www.curseforge.com/minecraft/mc-mods/macaws-roofs
 
 	Macaw's Roofs - Oh The Biomes You'll Go
 	https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-oh-the-biomes-youll-go
 
-	TBC				!!!=======================================!!!
+	Macaw's Trapdoors
+	https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
+
+	Macaw's Windows
+	https://www.curseforge.com/minecraft/mc-mods/macaws-windows
 
 * Mage Hand
 https://www.curseforge.com/minecraft/mc-mods/mage-hand
@@ -476,24 +535,95 @@ https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn
 Mining Dimensions [FABRIC]
 https://www.curseforge.com/minecraft/mc-mods/mining-dimensions-fabric
 
-MO + macaw ^^^
+Mob Scarecrows
+https://www.curseforge.com/minecraft/mc-mods/mob-scarecrows
+
+Mo Glass
+https://www.curseforge.com/minecraft/mc-mods/mo-glass
+
+More Axolotls
+https://www.curseforge.com/minecraft/mc-mods/more-axolotls
+
++ More Axolotl Variants Mod
+https://www.curseforge.com/minecraft/mc-mods/mavm
+
+Mo' Structures (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/mo-structures
+
++ MVS - Moog's Voyager Structures
+https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures
+
+Mythic Metals
+https://www.curseforge.com/minecraft/mc-mods/mythicmetals
+
+Mythic Mounts
+https://www.curseforge.com/minecraft/mc-mods/mythic-mounts
+
+Nature's Compass
+https://www.curseforge.com/minecraft/mc-mods/natures-compass
 
 
 
 
+Savage Ender Dragon[Forge/Fabric]
+https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon
 
 
 
 
+RightClickHarvest
+https://www.curseforge.com/minecraft/mc-mods/rightclickharvest
 
 
 
 
-
-
-
-ShulkerBoxTooltip [Fabric/Forge]
++ ShulkerBoxTooltip [Fabric/Forge]
 https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip
+
+
+
+
++ Structory
+https://www.curseforge.com/minecraft/mc-mods/structory
+
+
+
+
++ Towns and Towers - Structure Add-on
+https://www.curseforge.com/minecraft/mc-mods/towns-and-towers-structure-add-on
+
+
+
+
+Visual Workbench [Outdated]
+https://www.curseforge.com/minecraft/mc-mods/visual-workbench-fabric
+
+* Wandering Collector
+https://www.curseforge.com/minecraft/mc-mods/wandering-collector
+
+Waystones (Fabric Edition)
+https://www.curseforge.com/minecraft/mc-mods/waystones-fabric
+
++ Weapon Throw Lite
+https://www.curseforge.com/minecraft/mc-mods/weaponthrowlite
+
++ When Dungeons Arise - Fabric!
+https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric
+
+Wolves With Armor
+https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor
+
++ Wolves Of Other Furs (W.O.O.F)
+https://www.curseforge.com/minecraft/mc-mods/woof
+
+WorldEdit
+https://www.curseforge.com/minecraft/mc-mods/worldedit
+
++	WorldEdit CUI (Fabric)
+	https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric
+
++	WorldEdit Items
+	https://www.curseforge.com/minecraft/mc-mods/worldedit-items
 
 WTHIT
 https://www.curseforge.com/minecraft/mc-mods/wthit
@@ -526,6 +656,8 @@ YUNG's Mods (There's also alot...)
 
 	YUNG's Extras (Fabric)
 	https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
+
+
 
 
 
@@ -593,6 +725,8 @@ https://www.curseforge.com/minecraft/mc-mods/libipn
 Library Ferret - Fabric
 https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric
 
+Nbt Crafting (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/nbt-crafting
 
 
 
